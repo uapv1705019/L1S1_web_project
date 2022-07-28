@@ -1,0 +1,16 @@
+body{
+	background-size:contain;
+	margin:0px;
+	padding:0px;
+	font-size:large
+}
+thead{
+	opacity:0.75;
+	
+}
+tbody , tfoot{
+	background: rgba(225, 225, 225, 0.75);
+}
+tbody table{
+	text-align:center;
+}
